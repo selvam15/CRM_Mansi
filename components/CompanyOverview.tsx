@@ -39,28 +39,23 @@ const CompanyOverview: React.FC = () => {
 
                 <div className={`flex flex-col md:flex-row items-center justify-center gap-12 bg-slate-100 p-8 md:p-12 rounded-lg shadow-lg transition-all duration-700 ease-out delay-200 ${isVisible ? 'opacity-100 scale-100' : 'opacity-0 scale-95'}`}>
                     <div className="flex-shrink-0">
-                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhicUA5YuUe1aBO54v1uPddn-2LP9B3oCOD7oAhAMMLzYnube1T8cvh_Rg-QoBi0ClbANeZCPwbLhm4N1JCozl0wKj5NSwP6qOeisD3b7Am_8xh-lBlz533NatVMuxOP0bdNdFSYpD9EG3Zk42nzfnDwtIrnCwDXJMqjShLWlu85Hcsnp7n5u9EPAuSSWeH/s320/WhatsApp%20Image%202025-11-02%20at%203.39.16%20PM.jpeg" alt="Mansi Pavankumar" className="w-48 h-48 rounded-full object-cover shadow-xl border-4 border-white transition-transform duration-300 hover:scale-105"/>
+                        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhrBdnl1MK7dJXJVEe9CUMm2LsPm3R5jpekoA-bzDvNyuP8SO9xtY7nt8ThEpB5UDaGgzDQ4feept2b1p4Hxe6AifJGcsQfGNuY-p9lMFP7sTugOs_Haf9zLD_mtw5iwA3_q41WSyx-agIRv4B_LEaq3qZImE2uH0yiBHHfTqeaPqACijTy_SynGA1F5JYT" alt="Hardhik Chowdary" className="w-48 h-48 rounded-full object-cover shadow-xl border-4 border-white transition-transform duration-300 hover:scale-105"/>
                     </div>
                     <div className="text-center md:text-left">
-                        <h3 className="text-3xl font-bold text-slate-900">Mansi Pavankumar</h3>
-                        <p className="text-blue-600 font-semibold text-lg mt-1">CRM Manager</p>
+                        <h3 className="text-3xl font-bold text-slate-900">Hardhik Chowdary</h3>
+                        <p className="text-blue-600 font-semibold text-lg mt-1">COO</p>
                         
                         <div className="mt-4 text-slate-600 space-y-1">
-                            <p><strong>Phone:</strong> <a href="tel:+919087650009" className="hover:text-blue-600 transition-colors">+91 9087650009</a></p>
+                            <p><strong>Phone:</strong> <a href="tel:+919087650001" className="hover:text-blue-600 transition-colors">+91 9087650001</a></p>
                             <p><strong>Email:</strong> <a href="mailto:nstglobalsolar@gmail.com" className="hover:text-blue-600 transition-colors">nstglobalsolar@gmail.com</a></p>
                         </div>
                         
                         <p className="mt-4 max-w-xl text-slate-700 italic">
-                            "As a dedicated CRM Manager, I focus on building lasting relationships and ensuring client satisfaction is at the heart of everything we do at NST Group. Our success is measured by the success of our partners."
+                            "As a dedicated COO, I focus on building lasting relationships and ensuring client satisfaction is at the heart of everything we do at NST Group. Our success is measured by the success of our partners."
                         </p>
 
                         <div className="mt-6 flex justify-center md:justify-start space-x-4">
-                            <a href="https://www.linkedin.com/in/mansi-hublimath-a94835256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-slate-500 hover:text-blue-700 transition-all duration-300 transform hover:scale-110">
-                                <LinkedInIcon />
-                            </a>
-                            <a href="#" className="text-slate-500 hover:text-blue-500 transition-all duration-300 transform hover:scale-110">
-                                <TwitterIcon />
-                            </a>
+                            
                         </div>
                     </div>
                 </div>
