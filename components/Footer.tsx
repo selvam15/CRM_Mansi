@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
                     <h3 className="text-2xl font-bold text-white mb-2">NST Group of Companies</h3>
                     <p>Plot no 2, Door no 1, Balaji Nagar Extension Main Road, Adambakkam, Chennai-600088</p>
                     <p className="mt-2">
-                        <a href="tel:+919087650001" className="hover:text-blue-400 transition-colors">+91 9087650001</a> | <a href="mailto:nstglobalsolar@gmail.com" className="hover:text-blue-400 transition-colors">nstglobalsolar@gmail.com</a>
+                        <a href="tel:+919087650009" className="hover:text-blue-400 transition-colors">+91 9087650009</a> | <a href="mailto:nstglobalsolar@gmail.com" className="hover:text-blue-400 transition-colors">nstglobalsolar@gmail.com</a>
                     </p>
                 </div>
                 <div className="flex justify-center space-x-6 mb-6">
