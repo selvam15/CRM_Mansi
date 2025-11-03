@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
                     NST Group of Companies
                 </h1>
                 <p className="mt-4 text-xl md:text-2xl font-light">
-                    NST Fold Card - Your Multi-Business Solution Partner
+                    
                 </p>
                 <a href="#contact" className="mt-8 inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-blue-500/50">
                     Contact Us
